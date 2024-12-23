@@ -1,5 +1,6 @@
 # Exercicios-Kubernets
 Práticas para aprender kubernets 
+
 Lista de Exercícios de Kubernetes:
  
 Como criar um Deployment com 3 réplicas usando uma imagem do NGINX e verificar os Pods criados?
