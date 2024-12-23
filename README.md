@@ -1,4 +1,4 @@
-# Exerc-cios-Kubernets
+# Exercicios-Kubernets
 Práticas para aprender kubernets 
 Lista de Exercícios de Kubernetes:
  
